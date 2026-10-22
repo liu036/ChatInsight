@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "risk",
+      "task": null,
+      "assignee": null,
+      "reporter": "陈静",
+      "status": null,
+      "deadline": null,
+      "detail": "LOT-2601 缸号出现色差投诉，客户要求三天内回复，安排复检",
+      "raw_text": "[2026-10-22 08:30] 陈静：LOT-2601 缸号出现色差投诉，客户要求三天内回复，可能得安排复检。",
+      "msg_time": "2026-10-22 08:30",
+      "confidence": 0.8
+    },
+    {
+      "type": "task_assign",
+      "task": "把两个缸号的投诉整理成表格",
+      "assignee": "张伟",
+      "reporter": "王强",
+      "status": "todo",
+      "deadline": "今天下班前",
+      "detail": "发给品质部",
+      "raw_text": "[2026-10-22 08:35] 王强：张伟，今天下班前把两个缸号的投诉整理成表格，发给品质部。",
+      "msg_time": "2026-10-22 08:35",
+      "confidence": 0.9
+    }
+  ]
+}

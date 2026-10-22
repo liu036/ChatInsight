@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "type": "progress",
+      "task": "批量导入",
+      "assignee": "张伟",
+      "reporter": null,
+      "status": "doing",
+      "deadline": null,
+      "detail": "完成 90%，还差错误行号回显",
+      "raw_text": "[2026-10-22 10:01] 张伟：批量导入完成 90% 了，还差错误行号回显。",
+      "msg_time": "2026-10-22 10:01",
+      "confidence": 0.85
+    },
+    {
+      "type": "risk",
+      "task": null,
+      "assignee": null,
+      "reporter": "李娜",
+      "status": null,
+      "deadline": null,
+      "detail": "条码稳定性下周做压测，多线程同时发号",
+      "raw_text": "[2026-10-22 10:02] 李娜：条码稳定性下周做压测，多线程同时发号，有风险。",
+      "msg_time": "2026-10-22 10:02",
+      "confidence": 0.8
+    },
+    {
+      "type": "task_assign",
+      "task": "把压测方案写出来",
+      "assignee": "陈静",
+      "reporter": "王强",
+      "status": "todo",
+      "deadline": "周五前",
+      "detail": "周一评审",
+      "raw_text": "[2026-10-22 10:03] 王强：陈静，周五前把压测方案写出来，周一评审。",
+      "msg_time": "2026-10-22 10:03",
+      "confidence": 0.9
+    }
+  ]
+}

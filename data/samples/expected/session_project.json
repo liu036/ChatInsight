@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "type": "task_assign",
+      "task": "把标签打印系统的原型图出一版",
+      "assignee": "张伟",
+      "reporter": "王强",
+      "status": "todo",
+      "deadline": "下周三前",
+      "detail": "周四下午评审",
+      "raw_text": "[2026-10-20 09:12] 王强：张伟，下周三前把标签打印系统的原型图出一版，周四下午评审。",
+      "msg_time": "2026-10-20 09:12",
+      "confidence": 0.9
+    },
+    {
+      "type": "risk",
+      "task": null,
+      "assignee": null,
+      "reporter": "李娜",
+      "status": null,
+      "deadline": null,
+      "detail": "打印预览和实际打印要用同一套版式，这个以前吃过亏",
+      "raw_text": "[2026-10-20 09:16] 李娜：打印预览和实际打印要用同一套版式，这个以前吃过亏，有风险。",
+      "msg_time": "2026-10-20 09:16",
+      "confidence": 0.8
+    },
+    {
+      "type": "progress",
+      "task": "原型图整体框架",
+      "assignee": "张伟",
+      "reporter": null,
+      "status": "doing",
+      "deadline": null,
+      "detail": "完成 70%，还差追溯页面",
+      "raw_text": "[2026-10-20 11:40] 张伟：原型图整体框架完成 70% 了，还差追溯页面。",
+      "msg_time": "2026-10-20 11:40",
+      "confidence": 0.85
+    },
+    {
+      "type": "task_assign",
+      "task": "把标签打印系统的原型图出一版",
+      "assignee": "张伟",
+      "reporter": "王强",
+      "status": "todo",
+      "deadline": "下周三前",
+      "detail": "别忘了带打印预览的间距",
+      "raw_text": "[2026-10-20 14:05] 王强：张伟，下周三前把标签打印系统的原型图出一版，别忘了带打印预览的间距。",
+      "msg_time": "2026-10-20 14:05",
+      "confidence": 0.9
+    },
+    {
+      "type": "risk",
+      "task": null,
+      "assignee": null,
+      "reporter": "李娜",
+      "status": null,
+      "deadline": null,
+      "detail": "条码生成模块联调发现问题，图片偶尔会生成失败，回滚整笔录入",
+      "raw_text": "[2026-10-21 10:02] 李娜：条码生成模块联调发现问题，图片偶尔会生成失败，可能得回滚整笔录入。",
+      "msg_time": "2026-10-21 10:02",
+      "confidence": 0.8
+    },
+    {
+      "type": "risk",
+      "task": null,
+      "assignee": null,
+      "reporter": "王强",
+      "status": null,
+      "deadline": null,
+      "detail": "条码图片失败的，要记一下，周五前给出修复方案",
+      "raw_text": "[2026-10-21 10:03] 王强：条码图片失败的风险要记一下，周五前给出修复方案。",
+      "msg_time": "2026-10-21 10:03",
+      "confidence": 0.8
+    },
+    {
+      "type": "progress",
+      "task": "原型图初稿",
+      "assignee": "张伟",
+      "reporter": null,
+      "status": "doing",
+      "deadline": null,
+      "detail": "完成 80%，还差追溯页面和打印预览",
+      "raw_text": "[2026-10-21 16:30] 张伟：原型图初稿完成 80% 了，还差追溯页面和打印预览。",
+      "msg_time": "2026-10-21 16:30",
+      "confidence": 0.85
+    }
+  ]
+}

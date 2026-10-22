@@ -1,0 +1,15 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets & local config
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
